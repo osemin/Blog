@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 </head>
 <body >
-<a href="javascript:alert('Böte web sayfası açılıyor');">
+<a href="javascript:alert('Böyle web sayfası açılıyor');">
 Böte
 </a>
 <!--linkin üstüne geldiğinde durum çubuğunda böte web sayfası açılıyor yazar.-->
