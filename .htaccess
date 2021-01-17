@@ -1,0 +1,6 @@
+ 
+ RewriteEngine On
+
+RewriteRule ^network/\w+/(\d+)/? network/postblog.php?id=$1 [NC,L] 
+
+ErrorDocument 404 http://localhost/blog/404.php
