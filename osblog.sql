@@ -148,8 +148,8 @@ CREATE TABLE `yorumlar` (
 --
 
 INSERT INTO `yorumlar` (`yorum_id`, `makale_id`, `isim`, `email`, `yorum`) VALUES
-(1, 4, 'Oguzhan ', 'oguzhan.semin@mektebim.com', 'asdasdasdasdasdsadasdasdasdasdasd'),
-(6, 4, 'Deneme', 'oguzhan.semin@mektebim.com', 'adasdansdajksdhjaksdka');
+(1, 4, 'Oguzhan ', 'mail@mail.com', 'asdasdasdasdasdsadasdasdasdasdasd'),
+(6, 4, 'Deneme', 'mail@mail.com', 'adasdansdajksdhjaksdka');
 
 --
 -- Indexes for dumped tables
